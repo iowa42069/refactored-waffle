@@ -1,0 +1,24 @@
+# CrossMacro-1.1.0-x86_64
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `CrossMacro-1.1.0-x86_64.AppImage` |
+| **Size** | 42.88 MB |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Link
+
+| File | Link |
+|------|------|
+| `CrossMacro-1.1.0-x86_64.zip` | [Download](https://github.com/iowa42069/refactored-waffle/raw/main/downloads/CrossMacro-1.1.0-x86_64/CrossMacro-1.1.0-x86_64.zip) |
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
