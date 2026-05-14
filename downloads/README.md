@@ -14,6 +14,7 @@
 - [Tauon-9.1.3-2-anylinux-x86_64](./Tauon-9.1.3-2-anylinux-x86_64)
 - [VirtualBox-KVM_7.2.6-archimage5.0-x86_64](./VirtualBox-KVM_7.2.6-archimage5.0-x86_64)
 - [dunst-1.13.2-1-anylinux-x86_64](./dunst-1.13.2-1-anylinux-x86_64)
+- [firefox-models.tar](./firefox-models.tar)
 - [mpv-v0.41.0-anylinux-x86_64](./mpv-v0.41.0-anylinux-x86_64)
 - [pavucontrol-qt-2.4.0-1-anylinux-x86_64](./pavucontrol-qt-2.4.0-1-anylinux-x86_64)
 - [phoenix-r240.db3cd84-1-anylinux-x86_64](./phoenix-r240.db3cd84-1-anylinux-x86_64)
