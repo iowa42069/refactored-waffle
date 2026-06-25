@@ -3,6 +3,7 @@
 - [CopyQ-15.0.0-1-anylinux-x86_64](./CopyQ-15.0.0-1-anylinux-x86_64)
 - [CrossMacro-1.1.0-x86_64](./CrossMacro-1.1.0-x86_64)
 - [Foot-1.26.1-1-anylinux-x86_64](./Foot-1.26.1-1-anylinux-x86_64)
+- [GTA_Liberty_City_Stories_PC_FULL_Beta5.0](./GTA_Liberty_City_Stories_PC_FULL_Beta5.0)
 - [Galculator-2.1.4-10-anylinux-x86_64](./Galculator-2.1.4-10-anylinux-x86_64)
 - [Ghostty-1.3.1-x86_64](./Ghostty-1.3.1-x86_64)
 - [PDF_Tricks-0.4.1-1-anylinux-x86_64](./PDF_Tricks-0.4.1-1-anylinux-x86_64)
